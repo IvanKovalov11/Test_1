@@ -31,12 +31,7 @@ int main()
 		    {
 		        if (num[i]+num[j] == b)
 		        {
-		            cout << num[i] << ' ' << num[j] << endl;    
-		        }
-		        else
-		        {
-		            cout << "There is no such pair of numbers" << endl;
-		            break;
+		            cout << num[i] << ' ' << num[j] << endl;
 		        }
 		    }
 		}
